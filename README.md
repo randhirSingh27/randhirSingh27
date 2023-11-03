@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Randhir SIngh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randhirsingh27" alt="randhirsingh27" /></a> </p>
 
 - 🌱 I’m currently learning **Data science**
 
